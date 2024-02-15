@@ -1,0 +1,11 @@
+{
+  "namespace": "TussiStations",
+  "name": "TussiStations_Breaking_Bad",
+  "description": "All Breaking Bad Songs and memorable parts as a commercial.",
+  "version_number": "1.1.4",
+  "dependencies": [
+    "TritonSupreme-ExtendedRadio-0.4.0"
+  ],
+  "website_url": "",
+  "FullName": "TussiStations-TussiStations_Breaking_Bad"
+}

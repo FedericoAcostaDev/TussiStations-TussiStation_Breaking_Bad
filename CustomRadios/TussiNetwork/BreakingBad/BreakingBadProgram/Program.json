@@ -1,0 +1,9 @@
+{
+    "name": "BreakingBad",
+    "description": "BreakingBad OST and news",
+    "icon": "coui://TussiStations-TussiStation_Breaking_Bad/CustomRadios/TussiNetwork/BreakingBad/icon.svg",
+    "startTime": "00:00",
+    "endTime": "10:00",
+    "loopProgram": true,
+    "pairIntroOutro": false
+}
